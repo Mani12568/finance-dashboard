@@ -41,7 +41,7 @@ It allows users to track financial activity, view summaries, and analyze spendin
 ## 📦 Installation
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Mani12568/finance-dashboard.git
 cd finance-dashboard
 npm install
 npm run dev
